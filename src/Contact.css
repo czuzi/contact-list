@@ -1,0 +1,19 @@
+.Contact {
+  width: 300px;
+  margin: 15px;
+  box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+  text-align: center;
+  background-color: white;
+}
+
+.card-title {
+  background-color: #191919;
+  color: #ffffff;
+  padding: 15px;
+}
+
+.Contact-data {
+  color: rgba(17, 17, 17, 0.774);
+  font-size: small;
+  line-height: 8px;
+}

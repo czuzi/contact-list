@@ -1,0 +1,36 @@
+.search {
+  width: 20%;
+  float: right;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+hr {
+  width: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: red;
+  border: 2px solid red !important;
+}
+
+.Contact-cards {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.plus {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  display: flex;
+  float: right;
+  background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), red;
+  background-position: center;
+  background-size: 25% 1px, 1px 25%; /*thickness = 2px, length = 50% (25px)*/
+  background-repeat: no-repeat;
+  border-radius: 50%;
+}

@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import { Link } from "react-router-dom"
 import Contact from "./Contact"
 import "./ContactList.css"
-import ContactsData from "./ContactsData.json"
+import { ContactsData } from "./ContactsData.json"
 
 class ContactList extends Component {
   constructor() {

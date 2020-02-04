@@ -1,5 +1,5 @@
 import React from "react"
-import ContactsData from "./ContactsData.json"
+import { ContactsData } from "./ContactsData.json"
 import "./ViewContact.css"
 
 const ViewContact = props => {

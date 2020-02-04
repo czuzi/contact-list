@@ -1,11 +1,13 @@
-[
-  { "id": 1, "name": "Kiss Bence", "phone": "+36707070700", "email": "bence.kiss@kissbence.hu" },
-  { "id": 2, "name": "Kovács Ibolya", "phone": "+36707070456", "email": "ibolya.kovacs@kovacsibolya.hu" },
-  { "id": 3, "name": "Nagy Dávid", "phone": "+36707070441", "email": "david.nagy@nagydavid.hu" },
-  { "id": 4, "name": "Apro Bálint", "phone": "+36707070568", "email": "balint.apro@aprobalint.hu" },
-  { "id": 5, "name": "Czöndör László", "phone": "+36707070213", "email": "laszlo.czondor@czondorlaszlo.hu" },
-  { "id": 6, "name": "Nagy Renáta", "phone": "+36707070187", "email": "renata.nagy@nagyrenata.hu" },
-  { "id": 7, "name": "Dávid Zoltán", "phone": "+36707070487", "email": "zoltan.david@davidzoltan.hu" },
-  { "id": 8, "name": "Tóth Tamás", "phone": "+36707070264", "email": "tamas.toth@tothtamas.hu" },
-  { "id": 9, "name": "Fodor Bernadet", "phone": "+36707070264", "email": "bernadett.fodor@fodorbernadett.hu" }
-]
+{
+  "ContactsData": [
+    { "id": 1, "name": "Kiss Bence", "phone": "+36707070700", "email": "bence.kiss@kissbence.hu" },
+    { "id": 2, "name": "Kovács Ibolya", "phone": "+36707070456", "email": "ibolya.kovacs@kovacsibolya.hu" },
+    { "id": 3, "name": "Nagy Dávid", "phone": "+36707070441", "email": "david.nagy@nagydavid.hu" },
+    { "id": 4, "name": "Apro Bálint", "phone": "+36707070568", "email": "balint.apro@aprobalint.hu" },
+    { "id": 5, "name": "Czöndör László", "phone": "+36707070213", "email": "laszlo.czondor@czondorlaszlo.hu" },
+    { "id": 6, "name": "Nagy Renáta", "phone": "+36707070187", "email": "renata.nagy@nagyrenata.hu" },
+    { "id": 7, "name": "Dávid Zoltán", "phone": "+36707070487", "email": "zoltan.david@davidzoltan.hu" },
+    { "id": 8, "name": "Tóth Tamás", "phone": "+36707070264", "email": "tamas.toth@tothtamas.hu" },
+    { "id": 9, "name": "Fodor Bernadet", "phone": "+36707070264", "email": "bernadett.fodor@fodorbernadett.hu" }
+  ]
+}

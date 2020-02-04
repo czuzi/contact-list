@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/czuzi/contact-list/static/css/main.1388f0aa.chunk.css",
-    "main.js": "/czuzi/contact-list/static/js/main.ab0bbcf2.chunk.js",
-    "main.js.map": "/czuzi/contact-list/static/js/main.ab0bbcf2.chunk.js.map",
-    "runtime-main.js": "/czuzi/contact-list/static/js/runtime-main.8638c044.js",
-    "runtime-main.js.map": "/czuzi/contact-list/static/js/runtime-main.8638c044.js.map",
-    "static/css/2.64a99b10.chunk.css": "/czuzi/contact-list/static/css/2.64a99b10.chunk.css",
-    "static/js/2.ded7edae.chunk.js": "/czuzi/contact-list/static/js/2.ded7edae.chunk.js",
-    "static/js/2.ded7edae.chunk.js.map": "/czuzi/contact-list/static/js/2.ded7edae.chunk.js.map",
-    "index.html": "/czuzi/contact-list/index.html",
-    "precache-manifest.743f70229c1040150ca2e36b61309e75.js": "/czuzi/contact-list/precache-manifest.743f70229c1040150ca2e36b61309e75.js",
-    "service-worker.js": "/czuzi/contact-list/service-worker.js",
-    "static/css/2.64a99b10.chunk.css.map": "/czuzi/contact-list/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.1388f0aa.chunk.css.map": "/czuzi/contact-list/static/css/main.1388f0aa.chunk.css.map",
-    "static/media/vodafone_logo.b52e9e45.svg": "/czuzi/contact-list/static/media/vodafone_logo.b52e9e45.svg"
+    "main.css": "/contact-list/static/css/main.26bf3f42.chunk.css",
+    "main.js": "/contact-list/static/js/main.3da6ee03.chunk.js",
+    "main.js.map": "/contact-list/static/js/main.3da6ee03.chunk.js.map",
+    "runtime-main.js": "/contact-list/static/js/runtime-main.9224efe4.js",
+    "runtime-main.js.map": "/contact-list/static/js/runtime-main.9224efe4.js.map",
+    "static/css/2.64a99b10.chunk.css": "/contact-list/static/css/2.64a99b10.chunk.css",
+    "static/js/2.fb1a3ee7.chunk.js": "/contact-list/static/js/2.fb1a3ee7.chunk.js",
+    "static/js/2.fb1a3ee7.chunk.js.map": "/contact-list/static/js/2.fb1a3ee7.chunk.js.map",
+    "index.html": "/contact-list/index.html",
+    "precache-manifest.e4802c8433db57bf7496fcdef8f7ff8a.js": "/contact-list/precache-manifest.e4802c8433db57bf7496fcdef8f7ff8a.js",
+    "service-worker.js": "/contact-list/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/contact-list/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.26bf3f42.chunk.css.map": "/contact-list/static/css/main.26bf3f42.chunk.css.map",
+    "static/media/vodafone_logo.b52e9e45.svg": "/contact-list/static/media/vodafone_logo.b52e9e45.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8638c044.js",
+    "static/js/runtime-main.9224efe4.js",
     "static/css/2.64a99b10.chunk.css",
-    "static/js/2.ded7edae.chunk.js",
-    "static/css/main.1388f0aa.chunk.css",
-    "static/js/main.ab0bbcf2.chunk.js"
+    "static/js/2.fb1a3ee7.chunk.js",
+    "static/css/main.26bf3f42.chunk.css",
+    "static/js/main.3da6ee03.chunk.js"
   ]
 }

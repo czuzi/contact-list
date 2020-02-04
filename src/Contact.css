@@ -1,5 +1,5 @@
 .Contact {
-  width: 300px;
+  min-width: 230px;
   margin: 15px;
   box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
   text-align: center;
@@ -13,7 +13,8 @@
 }
 
 .Contact-data {
-  color: rgba(17, 17, 17, 0.774);
+  color: rgba(17, 17, 17, 0.562);
   font-size: small;
   line-height: 8px;
+  padding: 7px;
 }

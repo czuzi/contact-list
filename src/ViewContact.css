@@ -1,5 +1,14 @@
 .ViewContact {
-  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+.Contact-details {
+  /* text-align: center; */
+  margin: 30px;
 }
 
 button {

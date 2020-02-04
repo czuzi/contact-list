@@ -9,8 +9,10 @@ function Contact(props) {
       <Link to={`/${id}`}>
         <div className="card-title">{name}</div>
       </Link>
-      <p className="Contact-data">{email}</p>
-      <p className="Contact-data">{phone}</p>
+      <div className="Contact-data">
+        <p>{phone}</p>
+        <p>{email}</p>
+      </div>
     </div>
   )
 }

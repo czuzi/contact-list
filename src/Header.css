@@ -1,4 +1,8 @@
-.Header-logo {
-  max-width: 245px;
+/* .navbaar {
+  width: 100%;
+  max-width: 100px;
+} */
+.header-logo {
+  height: 50px;
   margin: 10px;
 }

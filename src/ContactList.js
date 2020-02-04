@@ -1,27 +1,10 @@
-import React from "react"
+import React, { Component } from "react"
 import { Link } from "react-router-dom"
 import Contact from "./Contact"
 import "./ContactList.css"
 import ContactsData from "./ContactsData.json"
 
-// class ContactList extends Component {
-//   render() {
-//     return (
-//       <div className="ContactList">
-//         <div className="Contact-cards">
-//           {ContactsData.map(c => (
-//             <Contact name={c.name} phone={c.phone} email={c.email} />
-//           ))}
-//         </div>
-//         <Link to="/addcontact">
-//           <div className="plus"></div>
-//         </Link>
-//       </div>
-//     )
-//   }
-// }
-
-class ContactList extends React.Component {
+class ContactList extends Component {
   constructor() {
     super()
     this.state = { search: "" }
@@ -37,7 +20,7 @@ class ContactList extends React.Component {
     )
 
     return (
-      <div className="ContactList container">
+      <div className="container contact-list">
         <div className="search">
           <input
             className="form-control"
@@ -49,9 +32,11 @@ class ContactList extends React.Component {
         </div>
         <h1>Contacts</h1>
         <hr />
-        <div className="Contact-cards">
+        <div className="row row-cols-1 row-cols-md-3">
           {filteredContacts.map(c => (
-            <Contact key={c.id} id={c.id} name={c.name} phone={c.phone} email={c.email} />
+            <div className="col">
+              <Contact key={c.id} id={c.id} name={c.name} phone={c.phone} email={c.email} />
+            </div>
           ))}
         </div>
         <Link to="/addcontact">

@@ -1,6 +1,12 @@
+.contact-list {
+  position: relative;
+}
+
 .search {
+  position: absolute;
+  top: -50px;
+  right: 30px;
   width: 20%;
-  float: right;
 }
 
 h1 {
@@ -16,10 +22,10 @@ hr {
   border: 2px solid #e60000 !important;
 }
 
-.Contact-cards {
+/* .Contact-cards {
   display: grid;
   grid-template-columns: auto auto auto;
-}
+} */
 
 .plus {
   display: block;

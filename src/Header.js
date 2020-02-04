@@ -6,9 +6,9 @@ import "./Header.css"
 class Header extends Component {
   render() {
     return (
-      <div className="Header-logo">
+      <div className="container">
         <Link to="/">
-          <Logo />
+          <Logo className="header-logo" />
         </Link>
       </div>
     )

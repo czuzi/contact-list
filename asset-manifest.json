@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/contact-list/static/css/main.7023b0b0.chunk.css",
-    "main.js": "/contact-list/static/js/main.e25a5aee.chunk.js",
-    "main.js.map": "/contact-list/static/js/main.e25a5aee.chunk.js.map",
-    "runtime-main.js": "/contact-list/static/js/runtime-main.9224efe4.js",
-    "runtime-main.js.map": "/contact-list/static/js/runtime-main.9224efe4.js.map",
-    "static/css/2.64a99b10.chunk.css": "/contact-list/static/css/2.64a99b10.chunk.css",
-    "static/js/2.e41bb388.chunk.js": "/contact-list/static/js/2.e41bb388.chunk.js",
-    "static/js/2.e41bb388.chunk.js.map": "/contact-list/static/js/2.e41bb388.chunk.js.map",
+    "main.css": "/contact-list/static/css/main.6a9d5ea3.chunk.css",
+    "main.js": "/contact-list/static/js/main.c935486b.chunk.js",
+    "main.js.map": "/contact-list/static/js/main.c935486b.chunk.js.map",
+    "runtime-main.js": "/contact-list/static/js/runtime-main.aa1b7cd0.js",
+    "runtime-main.js.map": "/contact-list/static/js/runtime-main.aa1b7cd0.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/contact-list/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.aa0e3a15.chunk.js": "/contact-list/static/js/2.aa0e3a15.chunk.js",
+    "static/js/2.aa0e3a15.chunk.js.map": "/contact-list/static/js/2.aa0e3a15.chunk.js.map",
     "index.html": "/contact-list/index.html",
-    "precache-manifest.f6178c1c94d4eea886f58e0b7f7a8933.js": "/contact-list/precache-manifest.f6178c1c94d4eea886f58e0b7f7a8933.js",
+    "precache-manifest.cdc1ee42ff6c0c6a2806d32efb7638a1.js": "/contact-list/precache-manifest.cdc1ee42ff6c0c6a2806d32efb7638a1.js",
     "service-worker.js": "/contact-list/service-worker.js",
-    "static/css/2.64a99b10.chunk.css.map": "/contact-list/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.7023b0b0.chunk.css.map": "/contact-list/static/css/main.7023b0b0.chunk.css.map",
+    "static/css/2.829c9cb5.chunk.css.map": "/contact-list/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.6a9d5ea3.chunk.css.map": "/contact-list/static/css/main.6a9d5ea3.chunk.css.map",
+    "static/js/2.aa0e3a15.chunk.js.LICENSE.txt": "/contact-list/static/js/2.aa0e3a15.chunk.js.LICENSE.txt",
     "static/media/vodafone_logo.b52e9e45.svg": "/contact-list/static/media/vodafone_logo.b52e9e45.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9224efe4.js",
-    "static/css/2.64a99b10.chunk.css",
-    "static/js/2.e41bb388.chunk.js",
-    "static/css/main.7023b0b0.chunk.css",
-    "static/js/main.e25a5aee.chunk.js"
+    "static/js/runtime-main.aa1b7cd0.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.aa0e3a15.chunk.js",
+    "static/css/main.6a9d5ea3.chunk.css",
+    "static/js/main.c935486b.chunk.js"
   ]
 }

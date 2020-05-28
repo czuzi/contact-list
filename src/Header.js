@@ -6,7 +6,7 @@ import "./Header.css"
 function Header() {
 	return (
 		<div className="container">
-			<Link to="/">
+			<Link to="/contact-list">
 				<Logo className="header-logo" />
 			</Link>
 		</div>

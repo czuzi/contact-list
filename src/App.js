@@ -6,17 +6,17 @@ import AddContact from "./AddContact"
 import ViewContact from "./ViewContact"
 
 function App() {
-  return (
-    <div className="App">
-      <Header />
+	return (
+		<div className="App">
+			<Header />
 
-      <Switch>
-        <Route exact path="/" component={ContactList} />
-        <Route exact path="/addcontact" component={AddContact} />
-        <Route path="/:id" component={ViewContact} />
-      </Switch>
-    </div>
-  )
+			<Switch>
+				<Route exact path="/contact-list" component={ContactList} />
+				<Route exact path="/contact-list/addcontact" component={AddContact} />
+				<Route path="/contact-list/:id" component={ViewContact} />
+			</Switch>
+		</div>
+	)
 }
 
 export default App

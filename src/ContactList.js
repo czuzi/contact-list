@@ -2,6 +2,7 @@ import React, { useState } from "react"
 import { Link } from "react-router-dom"
 import Contact from "./Contact"
 import "./ContactList.css"
+// import { ContactsData } from "./ContactsData.json"
 
 function ContactList() {
 	const ContactsData = [
@@ -21,7 +22,9 @@ function ContactList() {
 		setSearchTerm(e.target.value)
 	}
 
-	const filteredContacts = ContactsData.filter((contact) => contact.name.toLowerCase().includes(searchTerm))
+	const filteredContacts = ContactsData.filter((contact) =>
+		contact.name.toLowerCase().includes(searchTerm.toLowerCase())
+	)
 
 	return (
 		<div className="container contact-list">
@@ -38,12 +41,12 @@ function ContactList() {
 			<hr />
 			<div className="row row-cols-1 row-cols-md-3">
 				{filteredContacts.map((c) => (
-					<div className="col">
-						<Contact key={c.id} id={c.id} name={c.name} phone={c.phone} email={c.email} />
+					<div className="col" key={c.id}>
+						<Contact id={c.id} name={c.name} phone={c.phone} email={c.email} />
 					</div>
 				))}
 			</div>
-			<Link to="/addcontact">
+			<Link to="/contact-list/addcontact">
 				<div className="plus"></div>
 			</Link>
 		</div>
